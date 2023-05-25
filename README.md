@@ -1,4 +1,4 @@
-## Project-Restaurant-Orders
+## Project-TING
 
 - Projeto do módulo de Ciência da Computação da Trybe.
 
